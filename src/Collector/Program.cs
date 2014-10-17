@@ -1,10 +1,5 @@
-﻿using Microsoft.Diagnostics.Tracing;
-using Microsoft.Diagnostics.Tracing.Session;
+﻿using Microsoft.Diagnostics.Tracing.Session;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reactive;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using Tx.Windows;

@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Config\Settings.cs" />
     <Compile Include="Contracts\Node.cs" />
     <Compile Include="TraceObserverEx.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
